@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.App{
+  width: 1200px;
+  margin: 0px auto;
+
+}
+
+img{
+  display: block;
+  margin: 10px auto;
+  border-radius: 20px;
+}
+
+@media only screen and (max-width: 1200px){
+  .App{
+    width: 100%;
+    padding: 10px;
+  }
+}
+@media only screen and (max-width: 540){
+  img{
+    width: 100%;
+    margin: 20px;
+  }
+}
