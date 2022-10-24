@@ -61,7 +61,7 @@ function App() {
 
       <p style={{fontWeight:'bolder'}}>THANK YOU</p>
 
-      <p>ong live GSU, long live Japan, and May God bless our homeland Ghana.</p>
+      <p>long live GSU, long live Japan, and May God bless our homeland Ghana.</p>
 
       <p>OWUSU MENSAH RICHARD NANA ABANKWAH</p>
 
