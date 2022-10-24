@@ -24,9 +24,9 @@ img{
     padding: 10px;
   }
 }
-@media only screen and (max-width: 540){
+@media only screen and (max-width: 540px){
   img{
-    width: 100%;
-    margin: 20px;
+    width: 90%;
+    margin: 20px auto;
   }
 }
